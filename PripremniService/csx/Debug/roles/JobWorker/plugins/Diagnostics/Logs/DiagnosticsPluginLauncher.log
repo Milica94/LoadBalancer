@@ -1,0 +1,13 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Emulator config file set to C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] DiagnosticsStoreRootPath set to: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Loading config file: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Config file to read: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Emulator config file set to C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:22] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:49:23] Killing any MonAgentHost that might remain.

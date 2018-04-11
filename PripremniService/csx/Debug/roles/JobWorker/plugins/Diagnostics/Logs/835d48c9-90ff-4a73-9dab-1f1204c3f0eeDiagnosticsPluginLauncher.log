@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Emulator config file set to C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] DiagnosticsStoreRootPath set to: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Loading config file: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Config file to read: C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Emulator config file set to C:\Users\Zvezdana\Desktop\CLOUD\PripremniZadatak\PripremniZadatak\PripremniService\PripremniService\csx\Debug\roles\JobWorker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:13] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:14] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:15] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:47:15] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:48:25] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [22-Apr-17 18:48:25] DiagnosticPlugin exited with code 0
